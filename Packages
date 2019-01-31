@@ -1,0 +1,13 @@
+Package: com.pinbal.inapp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PinBal <timifani200@gmail.com>
+Filename: /InApp.deb
+Size: 2894
+MD5sum: C141e59C8de5e743184946c7BB8c51a8
+SHA1: 97bf95d6de75e0e3ef41025527B5337e768660df
+SHA256: 608ff7889fc9239559a2de8Cf5ea93e7baadb9a8B85d8257e617fee2d7251ac
+Section: tweaks
+Description: InApp purchases completely free
+Author: PinBal <timifani200@gmail.com>
+Name: InApp11
